@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625807764735",
+    "firebase_url": "https://user-driver-d3433.firebaseio.com",
+    "project_id": "user-driver-d3433",
+    "storage_bucket": "user-driver-d3433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625807764735:android:eecea8501eeada40",
+        "android_client_info": {
+          "package_name": "com.ccube9.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625807764735-sq85furfk86s0taqmlr3j6qedb9s8b83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61HiHpu59UH-AjKf2q6zNVviBGkG_acg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625807764735-sq85furfk86s0taqmlr3j6qedb9s8b83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
